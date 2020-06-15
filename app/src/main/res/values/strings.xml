@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VGallery</string>
+    <string name="simple_text">Audio description (AD) provides linguistic descriptions of movies and allows visually impaired people to follow a movie along with their peers. Such descriptions are by design mainly visual and thus naturally form an interesting data source for computer vision and computational linguistics. In this work we propose a novel dataset which contains transcribed ADs, which are temporally aligned to full length movies.
+        In addition we also collected and aligned movie scripts used in prior work and compare the two sources of descriptions.</string>
+    <string name="zero">0.0</string>
+</resources>
